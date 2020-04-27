@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+body {
+    text-align: center;
+    background-color: grey;
+    font-family: arial;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+table {
+    display: inline-block;
+    border-color: black;
+}
+h2 {
+    text-decoration: underline;
+}
+footer {
+    color: white;
+    background-color: black;
+    padding: 30px; 
+}
+iframe {
+    padding-bottom: 50px;
+}
